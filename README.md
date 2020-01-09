@@ -37,7 +37,25 @@ shell: 'wsl.exe', # Make hyper not crash when closing in bash
 shellArgs: [], # ^same as above
 webGLRenderer: false, # Allows cool characters
 ```
-![coolchars](./Hyper/Coolchars.png "Coolchars")
+![coolchars](./windows/Hyper/Coolchars.png "Coolchars")
+
+#### zsh
+Assuming you're using WSL, you can go into hyper, type in ``bash`` and then ``sudo apt install zsh``  
+Verify installation by running ``zsh --version``
+
+You can attempt to make it the default shell with ``chsh -s $(which zsh)``
+If it doesn't work adding this to your ``.bashrc`` might do the trick
+```
+bash -c zsh
+case $- in
+```
+#### Oh my zsh
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+#### Starship Prompt
+[They have their own install guide](https://github.com/starship/starship)
 
 
 ## Firefox
