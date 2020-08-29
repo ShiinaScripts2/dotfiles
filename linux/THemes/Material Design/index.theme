@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material Design
+Comment=An GTK Theme inspired by Google's new Material Design.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Design
+MetacityTheme=Material-Design
+IconTheme=Papirus
+CursorTheme=Capitaine Cursor
+ButtonLayout=menu:minimize,maximize,close
