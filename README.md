@@ -64,3 +64,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
 Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
 
 Check task Scheduler
+
+To fix chrome put this in the shortcut  
+Rightclick in taskbar --> right click on chrome --> properties --> add ``--disable-windows10-custom-titlebar``  to target
