@@ -2,7 +2,7 @@
 ## Windows 10
 
 **Things I use**
-+ **[Windows Terminal](https://github.com/microsoft/termina)**
++ **[Windows Terminal](https://github.com/microsoft/terminal)**
 + **Firefox**
 + **Discord**
 + **Explorer**
@@ -20,7 +20,7 @@ I use Homebrew 2.0 as well
 
 *These links might be outdated.*
 
-## [Windows Terminal](https://github.com/microsoft/termina)
+## [Windows Terminal](https://github.com/microsoft/terminal)
 The config file for windows terminal can be found at
 ``C:\Users\Meow\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`` 
 
@@ -30,12 +30,8 @@ Config file located here ``C:\Users\Meow\AppData\Roaming\Code\User``
 For theme I use ``Relaxed``
 
 Extensions & Other themes  
-+ Andromeda
 + Bracket pair Colorizer 2
-+ Hopscotch
 + Material Icon Theme 
-+ Palenight
-+ ReUI
 + Snazzy
 + Power mode (Just for fun)
 
@@ -52,7 +48,7 @@ Using the theme from the theme folder, ``love lace darkest`` Love Lace made by [
 
 Using ``Lumicons`` from [Here](https://www.deviantart.com/vantler/art/Lumicons-662277185) Or [Here](https://www.deviantart.com/niivu/art/Lumicons-Installer-812994066)
 
-Using [T-Clock](https://github.com/White-Tiger/T-Clock) with custom clock string ``""dddd, mmm-dd h:nn tt""``
+Using [T-Clock](https://github.com/White-Tiger/T-Clock) with custom clock string ``""h:nn tt  |  dddd dd mmm""``
 
 Removing ribbon with [Ribbon Disabler](https://winaero.com/blog/ribbon-disabler-4-0-for-windows-10-version-1903/)
 
@@ -67,3 +63,5 @@ Check task Scheduler
 
 To fix chrome put this in the shortcut  
 Rightclick in taskbar --> right click on chrome --> properties --> add ``--disable-windows10-custom-titlebar``  to target
+
+

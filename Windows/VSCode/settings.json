@@ -1,44 +1,49 @@
 {
-     //"powermode.enabled": true,
-     "workbench.colorTheme": "Relaxed",
-     "editor.wordWrap": "on",
-     "editor.tabSize": 5,
-     "bracket-pair-colorizer-2.showBracketsInGutter": true,
-     "[javascript]": {
-          "editor.defaultFormatter": "HookyQR.beautify"
-     },
-     "bracket-pair-colorizer-2.colors": [
-          "Pink",
-          "Light  Green",
-          "LightSkyBlue"
-     ],
-     "editor.suggestSelection": "first",
-     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-     "editor.fontFamily": "'Dank Mono', 'iosevka', 'brown', monospace",
-     "terminal.external.windowsExec": "“terminal.integrated.shell.windows”: “C:\\\\Program Files\\\\PowerShell\\\\7\\\\pwsh.exe”,",
-     "files.autoSave": "afterDelay",
-     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
-     "terminal.integrated.fontSize": 15,
-     "terminal.integrated.fontFamily": "\"Dejavu For Powerline\", \"consolas\"",
-     "editor.fontFamily": "'Dank Mono', Iosevka, 'Fira Code', 'brown', monospace",
-     "editor.fontSize": 16,
-     "terminal.integrated.automationShell.osx": "",
-     "workbench.iconTheme": "material-icon-theme",
-     "editor.fontLigatures": true,
-     "editor.detectIndentation": false,
-     "workbench.tree.indent": 8,
-     "[dart]": {
-          "editor.tabSize": 4,
-          "editor.insertSpaces": true,
-          "editor.detectIndentation": false,
-          "editor.suggest.insertMode": "replace"
-     },
-     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-     "editor.formatOnSave": true,
-     "editor.codeActionsOnSave": {
-          "source.fixAll": true,
-     },
-     "editor.cursorBlinking": "expand",
-     "editor.cursorStyle": "block",
-     "powermode.explosionOrder": null
+  //"powermode.enabled": true,
+  "workbench.colorTheme": "Relaxed",
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "bracket-pair-colorizer-2.showBracketsInGutter": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#373E4D"
+  },
+  "bracket-pair-colorizer-2.colors": [
+    "Pink",
+    "Light  Green",
+    "LightSkyBlue"
+  ],
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontFamily": "'JetBrains Mono', 'Dank Mono', Iosevka, 'Fira Code', 'brown', monospace",
+  "terminal.external.windowsExec": "“terminal.integrated.shell.windows”: “C:\\\\Program Files\\\\PowerShell\\\\7\\\\pwsh.exe”,",
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "\"Dejavu For Powerline\", \"consolas\"",
+  "editor.fontSize": 16,
+  "terminal.integrated.automationShell.osx": "",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontLigatures": true,
+  "editor.detectIndentation": false,
+  "workbench.tree.indent": 8,
+  "[dart]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "block",
+  "powermode.explosionOrder": null,
+  "window.menuBarVisibility": "toggle",
+  "window.customMenuBarAltFocus": false,
+  "window.enableMenuBarMnemonics": false
 }

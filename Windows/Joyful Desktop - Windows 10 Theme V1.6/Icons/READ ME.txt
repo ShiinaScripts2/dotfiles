@@ -1,0 +1,16 @@
+Remove the file extension ".remove" if needed from the file before using.
+
+To install this icon pack you need to use 7TSP GUI 2019 Edition found here:
+
+http://fav.me/ddb5026
+
+Installation:
+Open up 7TSP & click Add a Custom Pack & select the icon pack you want to install.
+Click on Start Patching.
+By default 7TSP will create a restore point & install the icon pack.
+Once installation is done reboot & you're done.
+
+Note:
+***Do not use any of these icon packs on any other WIndows 10 builds other than 1903 19H1, 19H2 & 20H1.***
+
+CREDITS TO devillnside and Moonnique for the installer.
