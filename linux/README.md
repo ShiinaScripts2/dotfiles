@@ -10,3 +10,6 @@
 - Openweather
 - panel OSD
 - screenshot tool
+
+# Other stuff
+- [Grub theme](https://github.com/mateosss/matter)
