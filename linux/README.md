@@ -11,6 +11,8 @@
 - panel OSD
 - screenshot tool
 
+``gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true``
+
 # Other stuff
 - [Grub theme](https://github.com/mateosss/matter)
 - [LSD](https://github.com/Peltoche/lsd)
