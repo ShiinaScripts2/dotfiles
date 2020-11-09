@@ -15,3 +15,5 @@
 - [Grub theme](https://github.com/mateosss/matter)
 - [LSD](https://github.com/Peltoche/lsd)
 - [Brew](https://brew.sh/)
+
+``eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)``
