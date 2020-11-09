@@ -13,3 +13,4 @@
 
 # Other stuff
 - [Grub theme](https://github.com/mateosss/matter)
+- [LSD](https://github.com/Peltoche/lsd)
